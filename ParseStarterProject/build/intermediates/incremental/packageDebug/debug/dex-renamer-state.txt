@@ -1,0 +1,10 @@
+#Thu May 23 11:47:53 BST 2019
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\BOSCH\\AndroidStudioProjects\\InstantPhoto\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+base.1=C\:\\Users\\BOSCH\\AndroidStudioProjects\\InstantPhoto\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+base.0=C\:\\Users\\BOSCH\\AndroidStudioProjects\\InstantPhoto\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+file.2=C\:\\Users\\BOSCH\\AndroidStudioProjects\\InstantPhoto\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\5\\classes2.dex
+file.1=C\:\\Users\\BOSCH\\AndroidStudioProjects\\InstantPhoto\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\4\\classes.dex
+file.0=C\:\\Users\\BOSCH\\AndroidStudioProjects\\InstantPhoto\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\5\\classes.dex
